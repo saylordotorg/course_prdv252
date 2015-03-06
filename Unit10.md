@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../../../
+previous: ../Unit09
+---
 **Unit 10: Tables** <span id="10"></span> 
 *Tables are an important feature of Excel®. They are used to store large
 pieces of data, usually on an ongoing basis. The data can then be sorted

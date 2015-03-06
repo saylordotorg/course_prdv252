@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Multi-Page Spreadsheets** <span id="9"></span> 
 *In this unit, you will learn how to work with large workbooks, and this
 unit will highlight various features that will make working in Excel®

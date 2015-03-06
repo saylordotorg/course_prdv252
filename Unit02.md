@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Formatting Spreadsheets** <span id="2"></span> 
 *This unit will discuss formatting in more depth for cells, text,
 numbers, including dates, and conditional formatting as well as the

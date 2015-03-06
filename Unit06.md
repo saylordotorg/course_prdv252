@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Presenting Data with Charts** <span id="6"></span> 
 *This unit will introduce charts, which are a very important feature in
 Excel®. Charts help people to visual the data. Sometimes too much

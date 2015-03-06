@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Graphics in Excel®** <span id="8"></span> 
 *Although graphics are not necessarily needed in Excel® to get the point
 across, it is sometimes good to use them to help the reader understand

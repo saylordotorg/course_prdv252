@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: More Work with Charts** <span id="7"></span> 
 *To start this unit off we will take a look at a couple of videos from
 the Goodwill Foundation’s Excel® 2010 series. We have used this video

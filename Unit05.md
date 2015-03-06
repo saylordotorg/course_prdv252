@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Lookup Functions and Review of Functions** <span
 id="5"></span> 
 *This unit will introduce the VLOOKUP and HLOOKUP functions as well as

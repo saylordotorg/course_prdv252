@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Mathematical Computations** <span id="3"></span> 
 *This is where the fun begins. Excel®’s usefulness shines in the way it
 handles formulas and functions. Formulas are mathematical equations that

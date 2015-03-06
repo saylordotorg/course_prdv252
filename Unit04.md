@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV252: Intermediate Excel"
+course_description: "This class is intended for students who have a basic understanding of spreadsheets and are now ready to delve deeper into formatting, formulas and functions, multi-page spreadsheets, charting data, creating tables that have database features, and be introduced to pivot tables."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Logical and Lookup Functions** <span id="4"></span> 
 *In this unit we will be looking at Chapter 3 of the textbook, which
 uses more advanced functions. As the chapter explains these functions,
