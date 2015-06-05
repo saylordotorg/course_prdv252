@@ -115,4 +115,15 @@ Excel® you have access to. Each unit includes a *time advisory* that
 lists the amount of time you should expect to spend on each subunit.
 These should help you plan your time accordingly.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/prdv252/Unit01/)
+- [Unit 2](https://legacy.saylor.org/prdv252/Unit02/)
+- [Unit 3](https://legacy.saylor.org/prdv252/Unit03/)
+- [Unit 4](https://legacy.saylor.org/prdv252/Unit04/)
+- [Unit 5](https://legacy.saylor.org/prdv252/Unit05/)
+- [Unit 6](https://legacy.saylor.org/prdv252/Unit06/)
+- [Unit 7](https://legacy.saylor.org/prdv252/Unit07/)
+- [Unit 8](https://legacy.saylor.org/prdv252/Unit08/)
+- [Unit 9](https://legacy.saylor.org/prdv252/Unit09/)
+- [Unit 10](https://legacy.saylor.org/prdv252/Unit10/)
