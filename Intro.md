@@ -137,3 +137,4 @@ These should help you plan your time accordingly.
 - [Unit 8](https://legacy.saylor.org/prdv252/Unit08/)
 - [Unit 9](https://legacy.saylor.org/prdv252/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv252/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV252/PRDV252-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV252/PRDV252-FinalExam-Answers.html)
