@@ -45,8 +45,8 @@ Upon successful completion of this unit, you will be able to:
 **1.1 Entering, Editing, and Formatting Data** <span id="1.1"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 1.2”**
     Link:* How to Use Microsoft
-    Excel®*:[](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[“Section
-    1.2](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    Excel®*:[](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[“Section
+    1.2](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Go to Chapter 1: Fundamental Skills. We will be
@@ -77,8 +77,8 @@ Upon successful completion of this unit, you will be able to:
 **1.2 Formatting and Data Analysis** <span id="1.2"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 1.3”**
     Link: *How to Use Microsoft Excel®*:
-    [“](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    1.3](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    1.3](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Read through Section 1.3 beginning on page 54, and
@@ -97,8 +97,8 @@ Upon successful completion of this unit, you will be able to:
 **1.3 Printing** <span id="1.3"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 1.4”**
     Link:* How to Use Microsoft Excel®*:
-    [“](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    1.4](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    1.4](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Read Section 1.4: Printing, which starts on page 86.
@@ -116,7 +116,7 @@ Upon successful completion of this unit, you will be able to:
 **1.4 Exercises for Unit 1** <span id="1.4"></span> 
 -   **Activity: The Saylor Foundation’s “Practice Exercise for Unit 1”**
     Link: The Saylor Foundation’s [“Practice Exercise for Unit
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/10/PRDV252-Unit-1.4-Exercises-FINAL-UFINAL.pdf)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-1.4-Exercises-FINAL-UFINAL.pdf)
     (PDF)  
         
      Instructions: Open your Excel® program and follow the directions on

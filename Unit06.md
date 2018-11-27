@@ -35,8 +35,8 @@ Upon successful completion of this unit, you will be able to:
 **6.1 Choosing a Chart Type** <span id="6.1"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 4.1”**
     Link: *How to Use Microsoft Excel®*:
-    [“](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    4.1](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    4.1](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Go to Chapter 4, which starts on page 308. Read
@@ -58,7 +58,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s“Excel® Text Chapter 4”**
     Link: The Saylor Foundation’s [“Excel® Text Chapter
-    4”](http://www.saylor.org/site/wp-content/uploads/2013/10/Excel-Text-Chapter-4.xlsx)  
+    4”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Excel-Text-Chapter-4.xlsx)  
         
      Instructions: This file is in the newest version of Excel® and uses
     the file extension .xlsx. You will need to have Excel® 2007 or newer
@@ -72,8 +72,8 @@ Upon successful completion of this unit, you will be able to:
 **6.2 Formatting Charts** <span id="6.2"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 4.2”**
     Link: *How to Use Microsoft Excel®*:
-    [“](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    4.2](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    4.2](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Go to Chapter 4, Section 4.2: Formatting Charts,

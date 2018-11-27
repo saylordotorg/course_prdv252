@@ -35,8 +35,8 @@ Upon successful completion of this unit, you will be able to:
 **7.1 The Scatter Chart** <span id="7.1"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 4.3”**
     Link: *How to Use Microsoft Excel®*:
-    [“](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    4.3](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](http://www.saylor.org/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    4.3](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Go to Chapter 4, Section 4.3: The Scatter Chart,
@@ -121,7 +121,7 @@ Upon successful completion of this unit, you will be able to:
 **7.4 Combination Charts** <span id="7.4"></span> 
 -   **Reading: The Saylor Foundation’s “Combo Charts in Excel®”**
     Link: The Saylor Foundation’s [“Combo Charts in
-    Excel®”](http://www.saylor.org/site/wp-content/uploads/2013/10/combination-chart_PRDV252.pdf)  
+    Excel®”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/combination-chart_PRDV252.pdf)  
         
      Instructions: Open the PDF document to learn about combination
     charts by creating one.  
