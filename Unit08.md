@@ -117,7 +117,7 @@ site on the web or within a company intranet site.*
 **8.3 Unit 8 Exercise** <span id="8.3"></span> 
 -   **Activity: The Saylor Foundation’s “Practice Exercise for Unit 8”**
     Link: The Saylor Foundation’s [“Practice Exercise for Unit
-    8”](http://www.saylor.org/site/wp-content/uploads/2013/10/PRDV252-Unit-8.3-Exercises-FINAL-UFinal.pdf) (PDF)  
+    8”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-8.3-Exercises-FINAL-UFinal.pdf) (PDF)  
         
      Instructions: Follow the instructions on the PDF. This exercise
     will be using skills you learned in Units 6–8.  

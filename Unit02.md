@@ -102,7 +102,7 @@ It is helpful to become familiar with this dialog box.*
 
 -   **Reading: The Saylor Foundation’s “Format Cells Dialog Box”**
     Link: The Saylor Foundation’s [“Format Cells Dialog
-    Box”](http://www.saylor.org/site/wp-content/uploads/2013/10/PRDV252-Unit-2.1.1-Format-Cells-Dialog-Box-FINAL.pdf) (PDF)  
+    Box”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-2.1.1-Format-Cells-Dialog-Box-FINAL.pdf) (PDF)  
         
      Instructions: Read through the document. Open your version of
     Excel® and compare it to what you just read about. This dialog box
