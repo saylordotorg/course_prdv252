@@ -81,7 +81,7 @@ video.*
 **9.3 Unit 9 Exercises** <span id="9.3"></span> 
 -   **Activity: The Saylor Foundation’s “Practice Exercise for Unit 9”**
     Link: The Saylor Foundation’s [“Practice Exercise for Unit
-    9”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-9.3-Instructions-FINAL.pdf) (PDF)  
+    9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/PRDV252-Unit-9.3-Instructions-FINAL.pdf) (PDF)  
         
      Instructions: Follow the instructions on the PDF. You will need the
     accompanying Excel® file below to complete this exercise.

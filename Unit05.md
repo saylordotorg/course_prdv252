@@ -24,8 +24,8 @@ Upon successful completion of this unit, you will be able to:
 **5.1 Lookup Functions** <span id="5.1"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 3.3”**
     Link: *How to Use Microsoft Excel®*:
-    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    3.3](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    3.3](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Read Chapter 3, Section 3.3: Lookup Functions, which
@@ -74,7 +74,7 @@ be able to see them in the spreadsheet for them to print. *
 
 -   **Reading: The Saylor Foundation’s “Printing Formulas”**
     Link: The Saylor Foundation’s [“Printing
-    Formulas”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-5.3-Print-Formulas-FINAL-UFinal.pdf) (PDF)  
+    Formulas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/PRDV252-Unit-5.3-Print-Formulas-FINAL-UFinal.pdf) (PDF)  
         
      Instructions: Read the PDF about printing formulas. Then, open your
     own spreadsheet program and turn on the Formulas view and try
@@ -85,7 +85,7 @@ be able to see them in the spreadsheet for them to print. *
 **5.4 Exercises for Unit 5** <span id="5.4"></span> 
 -   **Activity: The Saylor Foundation’s “Practice Exercise for Unit 5”**
     Link: The Saylor Foundation’s [“Practice Exercise for Unit
-    5”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-5.4-Exercises-FINAL-UFinal.pdf) (PDF)  
+    5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/PRDV252-Unit-5.4-Exercises-FINAL-UFinal.pdf) (PDF)  
         
      Instructions: Open the accompanying PDF document and follow the
     directions to complete the Practice for the skills you just learned.

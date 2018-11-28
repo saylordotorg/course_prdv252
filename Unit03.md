@@ -49,8 +49,8 @@ Upon successful completion of this unit, you will be able to:
 **3.1 Formulas** <span id="3.1"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 2.1”**
     Link: *How to Use Microsoft Excel®*:
-    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    2.1](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    2.1](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Go to Chapter 2: Mathematical Computations and find
@@ -69,7 +69,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s “Excel® Text Chapter 2”**
     Link: The Saylor Foundation’s [“Excel® Text Chapter
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Excel-Text-Chapter-2.xls) (XLS)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Excel-Text-Chapter-2.xls) (XLS)  
         
      Instructions: This Excel® file is in the earlier version of Excel®
     with the file extension .xls. If you have the newer version of
@@ -91,8 +91,8 @@ Upon successful completion of this unit, you will be able to:
 **3.2 Statistical Functions** <span id="3.2"></span> 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 2.2”**
     Link: *How to Use Microsoft Excel®*:
-    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    2.2](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    2.2](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Read Chapter 2, Section 2.2: Statistical Functions
@@ -132,8 +132,8 @@ learning the PMT function.*
 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 2.3”**
     Link: *How to Use Microsoft
-    Excel®*: [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    2.3](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)”
+    Excel®*: [“](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    2.3](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)”
     (PDF)  
         
      Instructions: Read Section 2.3: Functions for Personal Finance,
