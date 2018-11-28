@@ -73,7 +73,7 @@ computer;
  √    have competency in the English language; and  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
     
  It is assumed you have completed the PRDV004 course or have read
 through it and have a basic knowledge of Excel®, including the ability
@@ -103,7 +103,7 @@ free and online materials. However, the course makes primary use of the
 following materials:  
 
 -   [*How to Use Microsoft
-    Excel®*](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    Excel®*](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
 -   Goodwill Community Foundation’s *[Microsoft Excel®
     2010](http://www.gcflearnfree.org/excel2010)*
 

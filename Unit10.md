@@ -134,7 +134,7 @@ but it is a good skill to master.*
 -   **Reading: The Saylor Foundation’s “Convert to Range for
     Subtotaling”**
     Link: The Saylor Foundation’s [“Convert to Range for
-    Subtotaling”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/PRDV252-Unit-10.2-Convert-to-Range-for-Subtotaling-FINAL-UFinal.pdf) (PDF)  
+    Subtotaling”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/PRDV252-Unit-10.2-Convert-to-Range-for-Subtotaling-FINAL-UFinal.pdf) (PDF)  
         
      Instructions: Read the short explanation about converting a table
     to a list so that the Subtotal command can be utilized.  

@@ -52,8 +52,8 @@ typing or clicking and have fun!*
 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 3.1”**
     Link: *How to Use Microsoft Excel®*:
-    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    3.1](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)(PDF)  
+    [“](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    3.1](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)(PDF)  
         
      Instructions: Read Chapter 3: Logical and Lookup Functions through
     page 192 and then proceed to Section 3.1: Logical Functions, which
@@ -70,7 +70,7 @@ typing or clicking and have fun!*
 
 -   **Activity: The Saylor Foundation’s “Excel® Text Chapter 3”**
     Link: The Saylor Foundation’s [“Excel® Text Chapter
-    3”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Excel-Text-Chapter-3.xls)  
+    3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Excel-Text-Chapter-3.xls)  
       
      Instructions: This Excel® file is in the earlier version of Excel®,
     with the file extension .xls. If you have a newer version of Excel®,
@@ -96,8 +96,8 @@ worksheet from the spreadsheet you started in Subunit 4.1.*
 
 -   **Reading: *How to Use Microsoft Excel*®: “Section 3.2”**
     Link: *How to Use Microsoft Excel®*:
-    [“](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
-    3.2](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/archived/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
+    [“](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[Section
+    3.2](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/textbooks/How%20to%20Use%20Microsoft%20Excel.pdf)
     (PDF)  
         
      Instructions: Read Chapter 3, Section 3.2: Statistical IF
